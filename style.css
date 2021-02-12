@@ -1,0 +1,26 @@
+.heading{
+    box-shadow:5px 5px 15px #ffd700;
+    width:100%;
+    font-size:28px;
+    font-family: 'Hachi Maru Pop', cursive;
+    margin-top:0px;
+    height:90px;
+}
+#note{
+    font-size:15px;
+    font-family: 'Fraunces', serif;
+    font-weight:bold;
+}
+.footer{
+    position:fixed;
+    text-align:center;
+    bottom:0;
+    width:100%;
+    background-color: rgb(176, 196, 222,0.8);
+    font-weight:bold;
+}
+canvas{
+    border-top:5px solid #3cb371;
+    border-bottom:5px solid mediumseagreen;
+    border-radius:40px;
+}
